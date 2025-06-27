@@ -1,0 +1,6 @@
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Optional dependencies for enhanced functionality
+Pillow>=8.0.0  # For additional image format support

@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: du2x@pm.me
 - 🐛 Issues: [GitHub Issues](https://github.com/du2x/selfie-validator/issues)
 - 📖 Documentation: [GitHub README](https://github.com/du2x/selfie-validator#readme)
 
